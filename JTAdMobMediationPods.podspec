@@ -29,6 +29,8 @@ Pod::Spec.new do |s|
 
           # s.public_header_files = "Classes/**/*.h"
 
+          spec.frameworks = "GoogleInteractiveMediaAds", "OMSDK_Aotternet","AotterTrek-iOS-SDK","GoogleMobileAds"
+
 
           s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
           s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
