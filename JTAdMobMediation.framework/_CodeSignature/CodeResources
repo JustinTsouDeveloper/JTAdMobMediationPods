@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/JTAdMobMediation.h</key>
 		<data>
-		AVyhaWzWBvEb1hzQbD0ZRmeajjs=
+		cCyrHHKg3eDbB455mhuWzzMajgA=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -83,11 +83,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AVyhaWzWBvEb1hzQbD0ZRmeajjs=
+			cCyrHHKg3eDbB455mhuWzzMajgA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fb96Qi9ElzCB4oJpSp3Lzet6YR+VpapTyAq4gHtzEF0=
+			7EzwUEVyoUFPGAZB2bROQ4eEnqMiZYhl+G3VtZOm8k0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
