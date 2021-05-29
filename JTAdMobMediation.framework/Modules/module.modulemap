@@ -1,0 +1,6 @@
+framework module JTAdMobMediation {
+  umbrella header "JTAdMobMediation.h"
+
+  export *
+  module * { export * }
+}
