@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
           #1.
           s.name               = "JTAdMobMediationPods"
           #2.
-          s.version            = "0.0.2"
+          s.version            = "0.0.3"
           #3.  
           s.summary         = "Sort description of 'JTAdMobMediationPods' framework"
           #4.

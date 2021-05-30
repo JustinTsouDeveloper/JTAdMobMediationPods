@@ -11,9 +11,7 @@
 #import <JTAdMobMediation/AotterTrekGADCustomEventNativeAd.h>
 #import <JTAdMobMediation/AotterTrekGADMediatedNativeAd.h>
 #import <JTAdMobMediation/AotterTrekGADMediatedSuprAd.h>
-#import <GoogleMobileAds/GoogleMobileAds.h>
-#import <AotterTrek-iOS-SDK/AotterTrek-iOS-SDK.h>
-
+//#import <GoogleMobileAds/GoogleMobileAds.h>
 
 //! Project version number for JTAdMobMediation.
 FOUNDATION_EXPORT double JTAdMobMediationVersionNumber;
