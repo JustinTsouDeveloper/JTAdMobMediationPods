@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
           #8.
           s.source              = { :git => "https://github.com/JustinTsouDeveloper/JTAdMobMediationPods.git", :tag => s.version.to_s }
           #9.
-          s.exclude_files     = "Classes/Exclude"
+          # s.exclude_files     = "Classes/Exclude"
           s.vendored_frameworks = "JTAdMobMediation.framework"
           #10.
           s.swift_version    = '4.2'
